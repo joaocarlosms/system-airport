@@ -1,0 +1,7 @@
+com\mycompany\components\ManagerListPassenger.class
+com\mycompany\components\ManagerListFlights.class
+com\mycompany\roteiro\Roteiro.class
+com\mycompany\classes\Passenger.class
+com\mycompany\classes\SystemFidelity.class
+com\mycompany\classes\Flight.class
+com\mycompany\classes\Airport.class
